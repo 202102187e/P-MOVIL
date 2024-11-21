@@ -4,7 +4,7 @@ void main(List<String> args) {
   //Colecciones
   // Listas : Definir una coleccion tiene un indice empieza en cero y tiene un valor asignado
 
-  var listaNumeros = [ 1, 2, 3]; 
+  // var listaNumeros = [ 1, 2, 3]; 
 /*
   print(listaNumeros.length);
   print(listaNumeros);
