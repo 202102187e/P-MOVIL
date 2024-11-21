@@ -34,7 +34,32 @@ var num = 83 < 5? "Si es":"No es";
 
 print(num);
 
+//Switch
 
+var (deporte) = 'futbol';
+
+switch (deporte)  {
+  case 'futbol':
+  print("Practica futbol");
+  break;
+
+  case 'Voley':
+  print("Practica Voley");
+  break;
+
+  case 'Basquet':
+  print("Practica Basquet");
+  break;
+
+  case 'Natacion':
+  print("Practica Natacion");
+  break;
+
+  default:
+  print("No practica ningun deporte");
+  break;
+
+}
 
 
 }
