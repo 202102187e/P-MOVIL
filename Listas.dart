@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  //Conjunto de objetos 
+  //Conjunto de objetos ,similares a los arreglos 
   
   //Colecciones
   // Listas : Definir una coleccion tiene un indice empieza en cero y tiene un valor asignado
@@ -30,7 +30,7 @@ void main(List<String> args) {
 print(listaNumeros1.remove(2)); // Para remover un elemto determinado en una lista 
 print(listaNumeros1);
 
-print(listaNumeros1.reversed); // conjunto 
+print(listaNumeros1.reversed); // conjuntos 
 
 
 
